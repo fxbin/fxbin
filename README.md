@@ -1,5 +1,7 @@
 ### Hi 👋
 
+📫 How to reach me: fxbin123@gmail.com
+
 [![大痴小乙's github stats](https://github-readme-stats.vercel.app/api?username=fxbin&show_icons=true&theme=merko)](https://github.com/fxbin)
 
 <!--
