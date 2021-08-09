@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/status-up-brightgreen)
 <img alt="邮箱" src="https://img.shields.io/static/v1?label=%E9%82%AE%E7%AE%B1&message=fxbin123@gmail.com&color=3ABFE6&logo=Minutemailer"/></a> <img alt="微信" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=fxbin123&color=7BB32E&logo=wechat"/>
 
-[![大痴小乙's github stats](https://github-readme-stats.vercel.app/api?username=fxbin&show_icons=true&theme=buefy)](https://github.com/fxbin)
+[![大痴小乙's github stats](https://github-readme-stats.vercel.app/api?username=fxbin&show_icons=true&theme=buefy&repo=github-readme-stats)](https://github.com/fxbin)
 
 <!--
 **fxbin/fxbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
