@@ -2,7 +2,7 @@
 
 # fxbin · 大痴小乙
 
-### Java × AI Agent × Open Source
+### Java × AI Agent × Systems
 
 **Building reliable agentic systems, developer tools, and AI-native products.**
 
@@ -30,52 +30,6 @@ My current interests are not limited to building demos. I care more about how ag
 - **Tool Ecosystem** — Tool Calling, MCP, Skills, Agent Gateway, AI IDE integration
 - **Knowledge & Data** — RAG, retrieval pipelines, structured / analytical data access
 - **Product Engineering** — turning AI capabilities into maintainable, production-ready products
-
-## 🧩 Selected Projects
-
-<p align="center">
-  <a href="https://github.com/fxbin/TopicEye">
-    <img
-      height="140"
-      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=fxbin&repo=TopicEye&theme=transparent&hide_border=true"
-      alt="TopicEye"
-    />
-  </a>
-  <a href="https://github.com/fxbin/virtual-intelligent-dev-team">
-    <img
-      height="140"
-      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=fxbin&repo=virtual-intelligent-dev-team&theme=transparent&hide_border=true"
-      alt="virtual-intelligent-dev-team"
-    />
-  </a>
-</p>
-
-### [TopicEye](https://github.com/fxbin/TopicEye)
-
-A content topic radar powered by **multi-source ingestion + LLM scoring + trend tracking + daily/weekly reports**. It explores how LLMs can become part of a repeatable information-analysis workflow rather than a one-shot chat interface.
-
-### [virtual-intelligent-dev-team](https://github.com/fxbin/virtual-intelligent-dev-team)
-
-A coordination layer for complex software work, bringing **expert routing → planning → execution → iteration → Beta → Release → Feedback** into a sustainable closed-loop workflow. The project explores practical multi-agent collaboration and AI-assisted software delivery.
-
-## 🌱 Open Source
-
-Selected contributions:
-
-- [Apache Doris MCP Server · PR #39](https://github.com/apache/doris-mcp-server/pull/39) — Docker / Linux startup script compatibility fix
-- [Sa-Token · PR #423](https://github.com/dromara/Sa-Token/pull/423) — multi-account token context fix
-- [Sa-Token · PR #196](https://github.com/dromara/Sa-Token/pull/196) — JWT token extension data support
-
-## 🛠 Tech Stack
-
-**Core Engineering**  
-`Java 21` · `Spring Boot` · `Spring Cloud` · `Python` · `TypeScript` · `React` · `Next.js`
-
-**Agent / AI Engineering**  
-`Spring AI` · `ReAct` · `Tool Calling` · `MCP` · `RAG` · `Memory` · `Context Compression` · `Multi-model Routing`
-
-**Data & Infrastructure**  
-`MySQL` · `Redis` · `MongoDB` · `DuckDB` · `IoTDB` · `Apache Doris` · `Docker` · `Git` · `Linux`
 
 ---
 
